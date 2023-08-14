@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=Vin1 Pin=S?-1
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=Vfb1 Pin=S?-2
+Remove Pin from Net: Failed to remove Pin
+Removed Member From Class: ClassName=Multi_LT_circuit Member=S?
+Added Component: Designator=S9(CS422YA)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.nidec-copal-electronics.com/e/catalog/switch/cs-4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Copal Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CS-4-22YA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vfb1 Pin=S9-A2
+Added Pin To Net: NetName=Vfb2 Pin=S9-B1
+Added Pin To Net: NetName=Vin1 Pin=S9-C1
+Added Pin To Net: NetName=Vin2 Pin=S9-C2
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component S9 CS-4-22YA
