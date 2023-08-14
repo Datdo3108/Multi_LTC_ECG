@@ -1,0 +1,45 @@
+Change Component Footprint: Designator=C1 Old Footprint=CAPC2012X88N New Footprint=CAPC2012X140N
+Change Component Footprint: Designator=C2 Old Footprint=CAPC2012X88N New Footprint=CAPC2012X140N
+Change Component Footprint: Designator=C3 Old Footprint=CAPC2012X88N New Footprint=CAPC2012X140N
+Change Component Footprint: Designator=C4 Old Footprint=CAPC2012X88N New Footprint=CAPC2012X140N
+Change Component Comment : Designator=C1 Old Comment=C0805C104K5RAC7411 New Comment=GCM21BD70J106KE02K
+Change Component Comment : Designator=C2 Old Comment=C0805C104K5RAC7411 New Comment=GCM21BD70J106KE02K
+Change Component Comment : Designator=C3 Old Comment=C0805C104K5RAC7411 New Comment=GCM21BD70J106KE02K
+Change Component Comment : Designator=C4 Old Comment=C0805C104K5RAC7411 New Comment=GCM21BD70J106KE02K
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CAPC2012X88N"; UniqueID = "\TDUSLATM" ("\TDUSLATM")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.murata.com/en-global/api/pdfdownloadapi?cate=luCeramicCapacitorsSMD&partno=GCM21BD70J106KE02%23"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GCM21BD70J106KE02K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "81-GCM21BD70J106KE2K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GCM21BD70J106KE02K?qs=ufv2HEpFn%252BR%2FX0aJNPDpRg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "CAPC2012X88N"; UniqueID = "\CZYLNFSE" ("\CZYLNFSE")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.murata.com/en-global/api/pdfdownloadapi?cate=luCeramicCapacitorsSMD&partno=GCM21BD70J106KE02%23"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GCM21BD70J106KE02K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "81-GCM21BD70J106KE2K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GCM21BD70J106KE02K?qs=ufv2HEpFn%252BR%2FX0aJNPDpRg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CAPC2012X88N"; UniqueID = "\IILIGKMA" ("\IILIGKMA")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.murata.com/en-global/api/pdfdownloadapi?cate=luCeramicCapacitorsSMD&partno=GCM21BD70J106KE02%23"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GCM21BD70J106KE02K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "81-GCM21BD70J106KE2K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GCM21BD70J106KE02K?qs=ufv2HEpFn%252BR%2FX0aJNPDpRg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CAPC2012X88N"; UniqueID = "\OEVHXRTR" ("\OEVHXRTR")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.murata.com/en-global/api/pdfdownloadapi?cate=luCeramicCapacitorsSMD&partno=GCM21BD70J106KE02%23"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GCM21BD70J106KE02K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "81-GCM21BD70J106KE2K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GCM21BD70J106KE02K?qs=ufv2HEpFn%252BR%2FX0aJNPDpRg%3D%3D"; VariantName = "[No Variations]"
+Added Room: Name=Multi_LT_circuit

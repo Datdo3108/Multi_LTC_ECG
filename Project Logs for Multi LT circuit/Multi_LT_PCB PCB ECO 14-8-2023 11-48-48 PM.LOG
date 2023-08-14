@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=-9V Pin=P6-0
+Removed Pin From Net: NetName=-9V Pin=P9-0
+Removed Pin From Net: NetName=-9V Pin=P21-0
+Removed Member From Class: ClassName=Multi_LT_circuit Member=P6
+Removed Member From Class: ClassName=Multi_LT_circuit Member=P9
+Removed Member From Class: ClassName=Multi_LT_circuit Member=P21

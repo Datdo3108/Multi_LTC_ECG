@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=In1 Pin=S7-A2
+Removed Pin From Net: NetName=In2 Pin=S7-B1
+Removed Pin From Net: NetName=Vout1 Pin=S7-C1
+Removed Pin From Net: NetName=Vout2 Pin=S7-C2
+Added Pin To Net: NetName=Vout1 Pin=S7-A2
+Added Pin To Net: NetName=Vout2 Pin=S7-B1
+Added Pin To Net: NetName=In1 Pin=S7-C1
+Added Pin To Net: NetName=In2 Pin=S7-C2
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component C3 GRM2195C2A333JE01D
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component IC3 LTC2066HSC6#TRMPBF
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component IC5 LTC2066HSC6#TRMPBF
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component IC7 LTC2066HSC6#TRMPBF
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component P1 Pad
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component P3 Pad
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component P4 Pad
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component P5 Pad
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component P7 Pad
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component P10 Pad
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component P11 Pad
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component S2 CS-4-14NA
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component S3 CS-4-14NA
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component S4 CS-4-14NA
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component S8 CS-4-14NA
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component S9 CS-4-14NA

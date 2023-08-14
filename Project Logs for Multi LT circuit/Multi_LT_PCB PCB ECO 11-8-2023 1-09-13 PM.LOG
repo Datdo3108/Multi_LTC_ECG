@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=C1 Old Footprint=CAPC2012X95N New Footprint=CAPC2012X88N
+Change Component Footprint: Designator=C2 Old Footprint=CAPC2012X95N New Footprint=CAPC2012X88N
+Change Component Footprint: Designator=C3 Old Footprint=CAPC2012X95N New Footprint=CAPC2012X88N
+Change Component Footprint: Designator=C4 Old Footprint=CAPC2012X95N New Footprint=CAPC2012X88N
+Change Component Designator: OldDesignator=P12 NewDesignator=P13
+Change Component Designator: OldDesignator=P13 NewDesignator=P14
+Change Component Designator: OldDesignator=P14 NewDesignator=P15
+Added Component: Designator=P12(Pad)
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component P15 Pad
+Added Room: Name=Multi_LT_circuit

@@ -1,0 +1,45 @@
+Change Component Library : Designator=C1 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=C2 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=IC4 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=IC5 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=S2 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=S3 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=S4 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=S5 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=S6 Old Library=* New Library=SamacSys.SchLib
+Added Component: Designator=P1(Pad)
+Added Component: Designator=P2(Pad)
+Added Component: Designator=P3(Pad)
+Added Component: Designator=P4(Pad)
+Added Component: Designator=P5(Pad)
+Added Component: Designator=P6(Pad)
+Added Component: Designator=P7(Pad)
+Added Component: Designator=P8(Pad)
+Added Component: Designator=P9(Pad)
+Added Component: Designator=P10(Pad)
+Added Component: Designator=P11(Pad)
+Added Pin To Net: NetName=Vin1 Pin=P1-0
+Added Pin To Net: NetName=Voutput Pin=P2-0
+Added Pin To Net: NetName=Vin2 Pin=P3-0
+Added Pin To Net: NetName=GND Pin=P4-0
+Added Pin To Net: NetName=GND Pin=P5-0
+Added Pin To Net: NetName=-1.5V Pin=P6-0
+Added Pin To Net: NetName=-3.7V Pin=P7-0
+Added Pin To Net: NetName=+1.5V Pin=P8-0
+Added Pin To Net: NetName=+3.7V Pin=P9-0
+Added Pin To Net: NetName=GND Pin=P10-0
+Added Pin To Net: NetName=GND Pin=P11-0
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component IC3 LTC6268IS8-10#PBF
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component P1 Pad
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component P2 Pad
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component P3 Pad
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component P4 Pad
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component P5 Pad
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component P6 Pad
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component P7 Pad
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component P8 Pad
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component P9 Pad
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component P10 Pad
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component P11 Pad
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component S1 CS-4-12YA
+Added Room: Name=Multi_LT_circuit

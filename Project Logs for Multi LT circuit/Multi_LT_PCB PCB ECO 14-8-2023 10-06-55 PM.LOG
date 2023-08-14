@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=Vin1 Pin=C1-1
+Removed Pin From Net: NetName=Vin2 Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=IC3-1
+Removed Pin From Net: NetName=-3.7V Pin=IC3-2
+Removed Pin From Net: NetName=NetIC3_3 Pin=IC3-3
+Removed Pin From Net: NetName=-3.7V Pin=IC5-2
+Removed Pin From Net: NetName=-3.7V Pin=IC6-2
+Removed Pin From Net: NetName=-3.7V Pin=IC7-2
+Removed Pin From Net: NetName=-3.7V Pin=IC8-2
+Change Component Footprint: Designator=IC3 Old Footprint=SOT65P210X100-6N New Footprint=SOIC127P600X175-8N
+Change Component Comment : Designator=IC3 Old Comment=LTC2066HSC6#TRMPBF New Comment=OPA810IDR
+Change component parameters: Designator = "IC3" ("IC3"); Footprint = "SOT65P210X100-6N"; UniqueID = "\YOFGMMBQ" ("\YOFGMMBQ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "OPA810IDR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/opa810idr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/ds/symlink/opa810.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "OPA810IDR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "595-OPA810IDR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/OPA810IDR?qs=ToK3%2FczOkx8EaDuN35bMdg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=S10(CS422YA)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.nidec-copal-electronics.com/e/catalog/switch/cs-4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Copal Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CS-4-22YA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC3_3 Pin=IC3-2
+Added Pin To Net: NetName=GND Pin=IC3-3
+Added Pin To Net: NetName=-3.7V Pin=IC3-4
+Added Pin To Net: NetName=-1.5V Pin=IC5-2
+Added Pin To Net: NetName=+1.5V Pin=IC5-6
+Added Pin To Net: NetName=-1.5V Pin=IC6-2
+Added Pin To Net: NetName=+1.5V Pin=IC6-6
+Added Pin To Net: NetName=-1.5V Pin=IC7-2
+Added Pin To Net: NetName=+1.5V Pin=IC7-6
+Added Pin To Net: NetName=-1.5V Pin=IC8-2
+Added Pin To Net: NetName=+1.5V Pin=IC8-6
+Added Pin To Net: NetName=-3.7V Pin=P9-0
+Added Pin To Net: NetName=-3.7V Pin=P13-0
+Added Pin To Net: NetName=-3.7V Pin=P20-0
+Added Pin To Net: NetName=-3.7V Pin=P21-0
+Added Pin To Net: NetName=Vin1 Pin=S10-C1
+Added Pin To Net: NetName=Vin2 Pin=S10-C2
+Change Net Name : Old Net Name=+1.5V New Net Name=+2.5V
+Change Net Name : Old Net Name=-1.5V New Net Name=-2.5V
+Change Net Name : Old Net Name=-3.7V New Net Name=-9V
+Change Net Name : Old Net Name=NetIC3_3 New Net Name=NetIC3_2
+Added Pin To Net: NetName=+9V Pin=IC2-7
+Added Pin To Net: NetName=+9V Pin=IC3-7
+Added Net: Name=+9V
+Added Pin To Net: NetName=NetIC3_6 Pin=IC3-6
+Added Pin To Net: NetName=NetIC3_6 Pin=P16-0
+Added Pin To Net: NetName=NetIC3_6 Pin=R14-2
+Added Net: Name=NetIC3_6
+Added Pin To Net: NetName=Vfb1 Pin=C1-1
+Added Pin To Net: NetName=Vfb1 Pin=S10-A2
+Added Net: Name=Vfb1
+Added Pin To Net: NetName=Vfb2 Pin=C3-1
+Added Pin To Net: NetName=Vfb2 Pin=S10-B1
+Added Net: Name=Vfb2
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component S10 CS-4-22YA

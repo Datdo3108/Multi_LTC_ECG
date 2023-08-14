@@ -1,0 +1,45 @@
+Change Footprint: Footprint Not Found CAPC2012X88N
+Change Footprint: Footprint Not Found CAPC2012X88N
+Change Footprint: Footprint Not Found CAPC2012X88N
+Change Footprint: Footprint Not Found CAPC2012X88N
+Change Component Comment : Designator=C1 Old Comment=GRM2195C2A333JE01D New Comment=C0805C104K5RAC7411
+Change Component Comment : Designator=C2 Old Comment=GRM2195C2A333JE01D New Comment=C0805C104K5RAC7411
+Change Component Comment : Designator=C3 Old Comment=GRM2195C2A333JE01D New Comment=C0805C104K5RAC7411
+Change Component Comment : Designator=C4 Old Comment=GRM2195C2A333JE01D New Comment=C0805C104K5RAC7411
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CAPC2012X95N"; UniqueID = "\UWRRNFPC" ("\UWRRNFPC")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "C0805C104K5RAC7411"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c0805c104k5rac7411/kemet-corporation"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/datasheet/2/212/KEM_C1002_X7R_SMD-1102033.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0805C104K5RAC7411"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "80-C0805C104K5RACLR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C104K5RAC7411?qs=jbRM9o5BbzPcVXF0wW9AYg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "CAPC2012X95N"; UniqueID = "\RKLAFBFN" ("\RKLAFBFN")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "C0805C104K5RAC7411"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c0805c104k5rac7411/kemet-corporation"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/datasheet/2/212/KEM_C1002_X7R_SMD-1102033.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0805C104K5RAC7411"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "80-C0805C104K5RACLR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C104K5RAC7411?qs=jbRM9o5BbzPcVXF0wW9AYg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CAPC2012X95N"; UniqueID = "\WZEIYPUH" ("\WZEIYPUH")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "C0805C104K5RAC7411"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c0805c104k5rac7411/kemet-corporation"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/datasheet/2/212/KEM_C1002_X7R_SMD-1102033.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0805C104K5RAC7411"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "80-C0805C104K5RACLR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C104K5RAC7411?qs=jbRM9o5BbzPcVXF0wW9AYg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CAPC2012X95N"; UniqueID = "\BHQHFHYI" ("\BHQHFHYI")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "C0805C104K5RAC7411"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c0805c104k5rac7411/kemet-corporation"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/datasheet/2/212/KEM_C1002_X7R_SMD-1102033.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0805C104K5RAC7411"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "80-C0805C104K5RACLR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C104K5RAC7411?qs=jbRM9o5BbzPcVXF0wW9AYg%3D%3D"; VariantName = "[No Variations]"
+Added Room: Name=Multi_LT_circuit

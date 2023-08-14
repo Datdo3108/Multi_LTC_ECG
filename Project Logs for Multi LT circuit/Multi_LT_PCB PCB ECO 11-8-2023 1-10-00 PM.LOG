@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=-1.5V Pin=P12-0
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component P12 Pad
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component P13 Pad

@@ -1,0 +1,7 @@
+Added Component: Designator=P19(Pad)
+Added Pin To Net: NetName=-3.7V Pin=P19-0
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component P9 Pad
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component P13 Pad
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component P15 Pad
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component P17 Pad
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component P19 Pad

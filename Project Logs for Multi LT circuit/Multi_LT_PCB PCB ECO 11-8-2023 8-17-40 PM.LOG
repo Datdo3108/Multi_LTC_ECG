@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=P9 NewDesignator=P14
+Change Component Designator: OldDesignator=P14 NewDesignator=P15
+Change Component Designator: OldDesignator=P15 NewDesignator=P16
+Change Component Designator: OldDesignator=P16 NewDesignator=P17
+Added Component: Designator=P9(Pad)
+Added Pin To Net: NetName=-3.7V Pin=P9-0
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component P5 Pad
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component P8 Pad
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component P12 Pad
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component P13 Pad
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component P15 Pad
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component P17 Pad

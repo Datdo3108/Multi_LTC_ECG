@@ -1,0 +1,24 @@
+Change Component Designator: OldDesignator=P8 NewDesignator=P12
+Change Component Designator: OldDesignator=P12 NewDesignator=P14
+Change Component Designator: OldDesignator=P14 NewDesignator=P15
+Change Component Designator: OldDesignator=P15 NewDesignator=P17
+Change Component Designator: OldDesignator=P16 NewDesignator=P18
+Change Component Designator: OldDesignator=P17 NewDesignator=P19
+Change Component Designator: OldDesignator=P18 NewDesignator=P20
+Added Component: Designator=P8(Pad)
+Added Component: Designator=P16(Pad)
+Added Pin To Net: NetName=-2.5V Pin=P8-0
+Added Pin To Net: NetName=+2.5V Pin=P16-0
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component P19 Pad
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component P20 Pad
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component R10 CRGH0805F1M0
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component R12 CRGH0805J10M
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component R14 CRGH0805F1K0
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component R27 CRGH0805F14K7
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component R29 CRGH0805F76K8
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component R30 CPF-A-0805B49K9E1
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component R31 CPF0805B499KE1
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component R32 CRGH0805F15K
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component R36 CRGH0805F191K
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component S6 CS-4-22YA
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component S10 CS-4-14NA

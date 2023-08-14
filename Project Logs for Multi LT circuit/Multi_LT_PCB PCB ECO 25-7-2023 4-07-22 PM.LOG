@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=NetR?_1 Pin=R?-1
+Removed Pin From Net: NetName=NetR?_1 Pin=S?-6
+Change Component Footprint: Designator=S? Old Footprint=SOP254P1000X405-6N New Footprint=CS414NA
+Change Component Comment : Designator=S? Old Comment=CS-7-14TB New Comment=CS-4-14NA
+Change component parameters: Designator = "S?" ("S?"); Footprint = "SOP254P1000X405-6N"; UniqueID = "\OHVXNHIZ" ("\OHVXNHIZ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.nidec-components.com/e/catalog/switch/cs-4.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Nidec Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CS-4-14NA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "229-CS-4-14NA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nidec-Components/CS-4-14NA?qs=XeJtXLiO41SJhPXQmbZZMw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=S?-4
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component IC? LTC2066HSC6#TRMPBF
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component IC? LT1920IS8#PBF
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component R? CRF0805-FZ-R002ELF
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component R? CRF0805-FZ-R002ELF
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component R? CRF0805-FZ-R002ELF
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component R? CRF0805-FZ-R002ELF
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component R? CRF0805-FZ-R002ELF
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component R? CRF0805-FZ-R002ELF
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component S? CS-4-14NA
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component S? CS-4-14NA
+Added Room: Name=Multi_LT_circuit

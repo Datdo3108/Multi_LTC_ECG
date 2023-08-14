@@ -1,0 +1,11 @@
+Added Component: Designator=P21(Pad)
+Added Component: Designator=P22(Pad)
+Added Pin To Net: NetName=-2.5V Pin=P21-0
+Added Pin To Net: NetName=+2.5V Pin=P22-0
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component P8 Pad
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component P14 Pad
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component P16 Pad
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component P17 Pad
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component P18 Pad
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component P21 Pad
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component P22 Pad
