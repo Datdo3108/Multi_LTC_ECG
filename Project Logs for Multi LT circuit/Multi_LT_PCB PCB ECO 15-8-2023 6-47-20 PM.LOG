@@ -1,0 +1,30 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R37
+Change Component Designator: OldDesignator=R? NewDesignator=R38
+Change Component Designator: OldDesignator=R? NewDesignator=R39
+Change Component Designator: OldDesignator=R? NewDesignator=R40
+Change Component Designator: OldDesignator=R? NewDesignator=R41
+Change Component Designator: OldDesignator=R? NewDesignator=R42
+Change Component Designator: OldDesignator=S? NewDesignator=S10
+Change Component Designator: OldDesignator=S? NewDesignator=S11
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR42_2
+Added Pin To Net: NetName=NetR37_2 Pin=R37-2
+Added Pin To Net: NetName=NetR37_2 Pin=S10-4
+Added Net: Name=NetR37_2
+Added Pin To Net: NetName=NetR38_2 Pin=R38-2
+Added Pin To Net: NetName=NetR38_2 Pin=S10-3
+Added Net: Name=NetR38_2
+Added Pin To Net: NetName=NetR39_2 Pin=R39-2
+Added Pin To Net: NetName=NetR39_2 Pin=S10-2
+Added Net: Name=NetR39_2
+Added Pin To Net: NetName=NetR40_2 Pin=R40-2
+Added Pin To Net: NetName=NetR40_2 Pin=S11-2
+Added Net: Name=NetR40_2
+Added Pin To Net: NetName=NetR41_2 Pin=R41-2
+Added Pin To Net: NetName=NetR41_2 Pin=S11-3
+Added Net: Name=NetR41_2
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component R38 CRG0805F100K
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component R39 CRG0805F20K
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component R40 CRG0805F20K
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component R41 CRG0805F100K
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component R42 CRGH0805F1M0
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component S10 CS-4-14NA

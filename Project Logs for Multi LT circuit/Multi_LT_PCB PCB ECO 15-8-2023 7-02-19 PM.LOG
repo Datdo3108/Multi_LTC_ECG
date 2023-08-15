@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetR39_2 Pin=S10-2
+Removed Pin From Net: NetName=NetR37_2 Pin=S10-4
+Added Pin To Net: NetName=NetR37_2 Pin=S10-2
+Added Pin To Net: NetName=NetR39_2 Pin=S10-4
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component R37 CRGH0805F1M0
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component S11 CS-4-14NA
