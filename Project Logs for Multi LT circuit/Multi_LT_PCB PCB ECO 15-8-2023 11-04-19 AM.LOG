@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=Vin1 Pin=S9-A2
+Removed Pin From Net: NetName=Vin2 Pin=S9-B1
+Removed Pin From Net: NetName=Vfb1 Pin=S9-C1
+Removed Pin From Net: NetName=Vfb2 Pin=S9-C2
+Removed Member From Class: ClassName=Multi_LT_circuit Member=S9
+Added Component: Designator=J1(SAMTEC-TSM-102-01-X-DV)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "TSM-102-01-F-DV-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/samtec-inc/TSM-102-01-F-DV/TSM-102-01-F-DV-ND/7623428?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TSM-102-01-F-DV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TSM-102-01-F-DV/Samtec%20Inc./view-part/2805976/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vin1 Pin=J1-1
+Added Pin To Net: NetName=Vin2 Pin=J1-2
+Added Pin To Net: NetName=Vfb1 Pin=J1-3
+Added Pin To Net: NetName=Vfb2 Pin=J1-4
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component J1 SAMTEC-TSM-102-01-X-DV

@@ -1,0 +1,3 @@
+Change Footprint: Footprint Not Found Jumper 2x2
+Change Component Comment : Designator=J1 Old Comment=SAMTEC-TSM-102-01-X-DV New Comment=Jumper
+Change component parameters: Designator = "J1" ("J1"); Footprint = "SAMTEC-TSM-102-01-X-DV"; UniqueID = "\VPYYTRBY" ("\VPYYTRBY")

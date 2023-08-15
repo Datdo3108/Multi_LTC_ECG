@@ -1,0 +1,17 @@
+Change Component Designator: OldDesignator=P12 NewDesignator=P15
+Change Component Designator: OldDesignator=P14 NewDesignator=P17
+Change Component Designator: OldDesignator=P15 NewDesignator=P16
+Change Component Designator: OldDesignator=P16 NewDesignator=P19
+Change Component Designator: OldDesignator=P17 NewDesignator=P18
+Change Component Designator: OldDesignator=P18 NewDesignator=P20
+Change Component Designator: OldDesignator=P19 NewDesignator=P21
+Change Component Designator: OldDesignator=P20 NewDesignator=P22
+Change Component Designator: OldDesignator=P21 NewDesignator=P12
+Change Component Designator: OldDesignator=P22 NewDesignator=P14
+Change Component Designator: OldDesignator=S10 NewDesignator=S9
+Add Component: Footprint Not Found Jumper 2x2
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J1-4
+Add Class Member: Failed to add class member : Component J1 Jumper

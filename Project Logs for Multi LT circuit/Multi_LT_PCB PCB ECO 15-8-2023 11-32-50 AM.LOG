@@ -1,0 +1,6 @@
+Added Component: Designator=J1(Jumper 2x2)
+Added Pin To Net: NetName=Vin1 Pin=J1-1
+Added Pin To Net: NetName=Vin2 Pin=J1-2
+Added Pin To Net: NetName=Vfb1 Pin=J1-3
+Added Pin To Net: NetName=Vfb2 Pin=J1-4
+Added Member To Class: ClassName=Multi_LT_circuit Member=Component J1 Jumper

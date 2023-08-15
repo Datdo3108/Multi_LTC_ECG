@@ -1,0 +1,4 @@
+Remove Pin=J1-1 From Net=Vin1
+Remove Pin=J1-2 From Net=Vin2
+Remove Pin=J1-3 From Net=Vfb1
+Remove Pin=J1-4 From Net=Vfb2
