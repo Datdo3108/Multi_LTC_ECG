@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=Vout1 Pin=S8-A2
+Removed Pin From Net: NetName=Vout2 Pin=S8-B1
+Removed Pin From Net: NetName=In1 Pin=S8-C1
+Removed Pin From Net: NetName=In2 Pin=S8-C2
+Change Component Footprint: Designator=S8 Old Footprint=CS422YA New Footprint=CS422YTA
+Change Component Comment : Designator=S8 Old Comment=CS-4-22YA New Comment=CS-4-22YTA
+Change component parameters: Designator = "S8" ("S8"); Footprint = "CS422YA"; UniqueID = "\CXIHGLYZ" ("\CXIHGLYZ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.nidec-copal-electronics.com/e/catalog/switch/cs-4.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Copal Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CS-4-22YTA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vout2 Pin=S8-A1
+Added Pin To Net: NetName=Vout1 Pin=S8-B2
+Added Pin To Net: NetName=In2 Pin=S8-C1
+Added Pin To Net: NetName=In1 Pin=S8-C2

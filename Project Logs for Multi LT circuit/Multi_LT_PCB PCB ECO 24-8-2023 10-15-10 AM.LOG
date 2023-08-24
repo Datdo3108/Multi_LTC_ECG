@@ -1,0 +1,18 @@
+Change component parameters: Designator = "R29" ("R29"); Footprint = "RESC2012X65N"; UniqueID = "\ACKIOSQI" ("\ACKIOSQI")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F1773200-1%7FB%7Fpdf%7FEnglish%7FENG_DS_1773200-1_B.pdf%7F6-2176217-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CPF-A-0805B49K9E1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "279-CPF-A0805B49K9E1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.vn/ProductDetail/TE-Connectivity-Holsworthy/CPF-A-0805B49K9E1?qs=sGAEpiMZZMtlubZbdhIBILA%2F3gb4ZcwrSl2lU3bSvkw%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R36" ("R36"); Footprint = "RESC2012X65N"; UniqueID = "\AJWROAYT" ("\AJWROAYT")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F1773200-1%7FB%7Fpdf%7FEnglish%7FENG_DS_1773200-1_B.pdf%7F6-2176217-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CPF-A-0805B49K9E1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "279-CPF-A0805B49K9E1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.vn/ProductDetail/TE-Connectivity-Holsworthy/CPF-A-0805B49K9E1?qs=sGAEpiMZZMtlubZbdhIBILA%2F3gb4ZcwrSl2lU3bSvkw%3D"; VariantName = "[No Variations]"
