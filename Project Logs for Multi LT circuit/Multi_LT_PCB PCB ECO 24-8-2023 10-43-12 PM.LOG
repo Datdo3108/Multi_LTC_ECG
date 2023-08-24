@@ -1,0 +1,26 @@
+Change Component DesignItemId : Designator=C34 Old DesignItemId=GCM21BD70J106KE02K New DesignItemId=GCJ21BR72A104KA01K
+Change Component DesignItemId : Designator=C36 Old DesignItemId=GCM21BD70J106KE02K New DesignItemId=GCJ21BR72A104KA01K
+Change Component Footprint: Designator=C34 Old Footprint=CAPC2012X140N New Footprint=CAPC2012X150N
+Change Component Footprint: Designator=C36 Old Footprint=CAPC2012X140N New Footprint=CAPC2012X150N
+Change Component Comment : Designator=C34 Old Comment=GCM21BD70J106KE02K New Comment=GCJ21BR72A104KA01K
+Change Component Comment : Designator=C36 Old Comment=GCM21BD70J106KE02K New Comment=GCJ21BR72A104KA01K
+Change Component Description : Designator=C34 Old Description=Capacitor 10uF New Description=Capacitor 0.1uF
+Change Component Description : Designator=C36 Old Description=Capacitor 10uF New Description=Capacitor 0.1uF
+Change component parameters: Designator = "C34" ("C34"); Footprint = "CAPC2012X140N"; UniqueID = "\CZYLNFSE" ("\CZYLNFSE")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "GCJ21BR72A104KA01K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/gcj21br72a104ka01k/murata-manufacturing?region=europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://psearch.en.murata.com/capacitor/product/GCJ21BR72A104KA01%23.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GCJ21BR72A104KA01K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "81-GCJ21BR72A104KA01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GCJ21BR72A104KA01K?qs=yTuLhIm%2Fv1BqgzUieC0jrw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C36" ("C36"); Footprint = "CAPC2012X140N"; UniqueID = "\OEVHXRTR" ("\OEVHXRTR")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "GCJ21BR72A104KA01K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/gcj21br72a104ka01k/murata-manufacturing?region=europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://psearch.en.murata.com/capacitor/product/GCJ21BR72A104KA01%23.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GCJ21BR72A104KA01K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "81-GCJ21BR72A104KA01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GCJ21BR72A104KA01K?qs=yTuLhIm%2Fv1BqgzUieC0jrw%3D%3D"; VariantName = "[No Variations]"
