@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=C33 Old Footprint=CAPC2012X140N New Footprint=C0805
+Change Component Footprint: Designator=C35 Old Footprint=CAPC2012X140N New Footprint=C0805
+Change Component Footprint: Designator=R11 Old Footprint=RESC2012X65N New Footprint=RESC2012X60N
+Change Component Footprint: Designator=R26 Old Footprint=RESC2013X65N New Footprint=ERJ6ENF1000V
+Change Component Footprint: Designator=R35 Old Footprint=RESC2013X65N New Footprint=ERJ6ENF1000V
+Change Component Footprint: Designator=R9 Old Footprint=RESC2013X65N New Footprint=RESC2012X50N
+Change Component Footprint: Designator=R12 Old Footprint=RESC2013X65N New Footprint=RESC2012X50N
+Change Component Footprint: Designator=R28 Old Footprint=RESC2013X65N New Footprint=RESC2012X50N
+Change Component Footprint: Designator=R33 Old Footprint=RESC2013X65N New Footprint=RESC2012X50N
+Change Component Comment : Designator=R11 Old Comment=CRG0805F5K49 New Comment=CRCW08055K49FKEAHP
+Change Component Comment : Designator=R9 Old Comment=CRGH0805F2K05 New Comment=CRCW08052K05FKEA
+Change Component Comment : Designator=R28 Old Comment=CRGH0805F14K7 New Comment=CRCW080514K7FKEA
+Change Component Comment : Designator=R33 Old Comment=CRGH0805F14K7 New Comment=CRCW080514K7FKEA
+Change Component Comment : Designator=R12 Old Comment=CRGH0805F16K5 New Comment=CRCW080516K5FKEA
+Change Component Comment : Designator=R26 Old Comment=CRGH0805F76K8 New Comment=ERJ-6ENF7682V
+Change Component Comment : Designator=R35 Old Comment=CRGH0805F76K8 New Comment=ERJ-6ENF7682V
+Change Component Comment : Designator=C33 Old Comment=GCM21BD70J106KE02K New Comment=C0805C109B3GACTU
+Change Component Comment : Designator=C35 Old Comment=GCM21BD70J106KE02K New Comment=C0805C109B3GACTU

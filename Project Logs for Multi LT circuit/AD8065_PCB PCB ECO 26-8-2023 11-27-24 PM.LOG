@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=1st Res (1) Pin=AD_R3-1
+Removed Pin From Net: NetName=Rg1 Pin=AD_R3-2
+Removed Pin From Net: NetName=1st Res (2) Pin=AD_R6-1
+Removed Pin From Net: NetName=Rg2 Pin=AD_R6-2
+Removed Member From Class: ClassName=AD8065_circuit Member=AD_R3
+Removed Member From Class: ClassName=AD8065_circuit Member=AD_R6
+Added Component: Designator=AD_R?(ERJHP6D1000V)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDQ0000/ast-ind-151033.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-HP6F20R0V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=AD_R?(ERJHP6D1000V)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDQ0000/ast-ind-151033.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-HP6F20R0V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=1st Res (1) Pin=AD_R?-1
+Added Pin To Net: NetName=1st Res (2) Pin=AD_R?-1
+Added Pin To Net: NetName=Rg1 Pin=AD_R?-2
+Added Pin To Net: NetName=Rg2 Pin=AD_R?-2
+Added Member To Class: ClassName=AD8065_circuit Member=Component AD_R? ERJ-HP6F20R0V
+Added Member To Class: ClassName=AD8065_circuit Member=Component AD_R? ERJ-HP6F20R0V
