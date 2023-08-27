@@ -1,22 +1,13 @@
 Source PCB Design Panelize_PCB.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
 
-Output: Gerber Files
-Type  : Gerber
+Output: Generates pick and place files
+Type  : Pick Place
 From  : Variant [[No Variations]] of Project [Multi LT circuit.PrjPcb]
-   Generated File[Panelize_PCB.GTO]
-   Generated File[Panelize_PCB.GTP]
-   Generated File[Panelize_PCB.GTS]
-   Generated File[Panelize_PCB.GTL]
-   Generated File[Panelize_PCB.GBL]
-   Generated File[Panelize_PCB.GBS]
-   Generated File[Panelize_PCB.GBP]
-   Generated File[Panelize_PCB.GBO]
-   Generated File[Panelize_PCB.GM]
-   Generated File[Panelize_PCB.EXTREP]
-   Generated File[Panelize_PCB.REP]
+   Generated File[Pick Place for Panelize_PCB.txt]
+   Generated File[Pick Place for Panelize_PCB.csv]
 
 
-Files Generated   : 11
+Files Generated   : 2
 Documents Printed : 0
 
-Finished Output Generation At 12:07:09 AM On 27/8/2023
+Finished Output Generation At 12:16:58 AM On 28/8/2023
