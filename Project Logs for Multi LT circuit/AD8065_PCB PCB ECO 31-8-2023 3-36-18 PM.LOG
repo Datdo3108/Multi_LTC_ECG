@@ -1,0 +1,10 @@
+Added Component: Designator=S?(7813J1051E)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "7813J-1-051E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/7813j-1-051e/bourns?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.bourns.com/pdfs/7813.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "7813J-1-051E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-7813J-1-051E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/7813J-1-051E?qs=RlRj25DlwaBJsVBTxGqN%2FA%3D%3D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=AD8065_circuit Member=Component S? 7813J-1-051E
